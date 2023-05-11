@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=NetR7_2 Pin=SW1-2
+Removed Pin From Net: NetName=NetR7_2 Pin=SW1-2
+Change Component Footprint: Designator=D6 Old Footprint=LED-LTST-C170TBKT New Footprint=LED 3MM
+Change Component Footprint: Designator=SW1 Old Footprint=SWITCH 12X12X12 New Footprint=SWITCH 9.5 180
+Change Component Comment : Designator=D6 Old Comment=Red New Comment=Valor
+Added Pin To Net: NetName=NetR7_2 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4

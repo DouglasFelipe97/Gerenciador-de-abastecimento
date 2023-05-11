@@ -1,0 +1,166 @@
+RESISTOR 0805
+VO SCR0805J1K
+Manufacturer
+VO
+Mfr. Part #
+SCR0805J1K
+LCSC Part #
+C3017842
+Package
+0805
+
+RESISTOR 2512 1W
+TyoHM RMC2512100K1%N
+Manufacturer
+TyoHM
+Mfr. Part #
+RMC2512100K1%N
+LCSC Part #
+C269364
+Package
+2512
+
+CAPACITOR 100X25
+KNSCHA RST100UF25V004
+Manufacturer
+KNSCHA
+Mfr. Part #
+RST100UF25V004
+LCSC Part #
+C4747964
+Package
+SMD,D6.3xL5.4mm
+
+CAPACITOR 0805 100nF
+FH-BK(Guangdong Fenghua Bangke Elec) 0805B104K500NT
+Manufacturer
+FH-BK(Guangdong Fenghua Bangke Elec)
+Mfr. Part #
+0805B104K500NT
+LCSC Part #
+C2830721
+Package
+0805
+
+TRANSISTOR BC817
+Shikues BC817
+Manufacturer
+Shikues
+Mfr. Part #
+BC817
+LCSC Part #
+C475629
+Package
+SOT-23
+
+MICROCONTROLADOR STM8S003F3P6
+STMicroelectronics STM8S003F3P6
+Manufacturer
+STMicroelectronics
+Mfr. Part #
+STM8S003F3P6
+LCSC Part #
+C18615
+Package
+TSSOP-20
+
+OPTOACOPLADOR 4N25
+UMW(Youtai Semiconductor Co., Ltd.) 4N25
+Manufacturer
+UMW(Youtai Semiconductor Co., Ltd.)
+Mfr. Part #
+4N25
+LCSC Part #
+C3014309
+Package
+DIP-6
+
+L7805 TO-252 1.5A
+STMicroelectronics L7805CDT-TR
+Manufacturer
+STMicroelectronics
+Mfr. Part #
+L7805CDT-TR
+LCSC Part #
+C310413
+Package
+TO-252-3
+
+POWER JACK P4
+HOOYA DC050φ2.5
+Manufacturer
+HOOYA
+Mfr. Part #
+DC050φ2.5
+LCSC Part #
+C2939131
+Package
+SMD
+
+CHAVE TACTIL
+C&K PTS645VJL612LFS
+Manufacturer
+C&K
+Mfr. Part #
+PTS645VJL612LFS
+LCSC Part #
+C285516
+Package
+Plugin
+
+LED 3mm
+EKINGLUX EL302RD
+Manufacturer
+EKINGLUX
+Mfr. Part #
+EL302RD
+LCSC Part #
+C5172924
+Package
+Plugin,D=3mm
+
+DIODO 1N4148
+MDD（Microdiode Electronics） LL4148
+Manufacturer
+MDD（Microdiode Electronics）
+Mfr. Part #
+LL4148
+LCSC Part #
+C435829
+Package
+LL-34
+
+DIODO 1N4007
+FOSAN 1N4007
+Manufacturer
+FOSAN
+Mfr. Part #
+1N4007
+LCSC Part #
+C3014023
+Package
+SMA
+
+TERMINAL BLOCK 2V
+DIBO DB302-5.0-2P-GN-S
+Manufacturer
+DIBO
+Mfr. Part #
+DB302-5.0-2P-GN-S
+LCSC Part #
+C2997275
+Package
+P=5mm
+
+TERMINAL BLOCK 6V
+DIBO DB302-5.0-6P-GN-S
+Manufacturer
+DIBO
+Mfr. Part #
+DB302-5.0-6P-GN-S
+LCSC Part #
+C4555918
+Package
+P=5mm
+
+COTADO NA LCSC PARTS: https://www.lcsc.com
